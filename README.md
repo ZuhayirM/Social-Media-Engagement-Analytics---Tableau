@@ -3,6 +3,16 @@
 ## Project Overview
 This project analyzes social media engagement patterns using Tableau dashboards and visual storytelling techniques. The goal is to identify the key factors that drive audience engagement across different platforms, emotions, campaign phases, and geographic regions.
 
+## Interactive Tableau Dashboard
+
+Explore the live dashboard on Tableau Public:
+
+[View the interactive dashboard](https://public.tableau.com/views/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategyUpdated/Storytelling?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Dashboard Preview
+
+[![What Drives Engagement? Tableau Dashboard](https://public.tableau.com/static/images/Wh/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategyUpdated/Storytelling/1.png)](https://public.tableau.com/views/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategyUpdated/Storytelling?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Dataset
 The dataset used in this project is the **Social Media Engagement Dataset** sourced from Kaggle.
 
